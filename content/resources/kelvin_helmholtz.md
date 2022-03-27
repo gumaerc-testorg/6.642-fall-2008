@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 23e4c6d6-652d-aa50-8aba-5ceca7629ef7
 resourcetype: Document
 title: Kelvin-Helmholtz Instability
 uid: acf162c3-f92b-66ba-f592-c488ee2624ca

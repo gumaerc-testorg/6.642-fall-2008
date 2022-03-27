@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f0411535-e4bb-d638-8935-8f03d03ec467
 resourcetype: Document
 title: Useful Bessel Function Relationships
 uid: b7af4bf7-0ab9-b4b9-0f99-95a82afb72f3

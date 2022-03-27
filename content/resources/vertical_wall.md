@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f0411535-e4bb-d638-8935-8f03d03ec467
 resourcetype: Document
 title: Shape of an Interface Bounded by a Vertical Plane Wall
 uid: 35ee31bf-5e0b-6262-dc40-447378cc5842
