@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 630a08e7-cb54-29b8-820a-77bfb0e97a06
 ---
@@ -97,6 +100,6 @@ Mathematica Notebooks
 
 The following notebooks accompany problem set 1:
 
-Problem 1 ([NB - 3.3 MB](/courses/electrical-engineering-and-computer-science/6-642-continuum-electromechanics-fall-2008/assignments/PS1_Prob_1_mz_3.nb))
+Problem 1 ([NB - 3.3 MB]({{< baseurl >}}/resources/ps1_prob_1_mz_3))
 
-Problem 2 ([NB](/courses/electrical-engineering-and-computer-science/6-642-continuum-electromechanics-fall-2008/assignments/PS1_Prob_2_mz_2.nb))
+Problem 2 ([NB]({{< baseurl >}}/resources/ps1_prob_2_mz_2))
