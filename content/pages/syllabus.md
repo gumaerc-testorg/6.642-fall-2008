@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, grading, and a tentative course outline.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 09af6b96-06a9-9a3b-01fb-cd49fdf163ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Course Introduction by Prof. Markus Zahn
@@ -40,7 +46,7 @@ Melcher, James R. _Continuum Electromechanics_. Cambridge, MA: MIT Press, 1981. 
 
 Zahn, Markus. _Electromagnetic Field Theory: A Problem Solving Approach_. Malabar, FL: Krieger Publishing, Co., 2003. ISBN: 9781575242354.
 
-The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/resources/res-6-001-continuum-electromechanics-spring-2009/index.htm) and [Electromagnetic Field Theory: A Problem Solving Approach](/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/index.htm).
+The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/courses/res-6-001-continuum-electromechanics-spring-2009) and [Electromagnetic Field Theory: A Problem Solving Approach](/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008).
 
 Grading
 -------
@@ -91,7 +97,7 @@ Homework
 Course Outline
 --------------
 
-A tentative outline, divided into nine main topics, is provided below. A more detailed summary of lectures is provided in the [calendar]({{< baseurl >}}/pages/calendar) section.
+A tentative outline, divided into nine main topics, is provided below. A more detailed summary of lectures is provided in the {{% resource_link f53d2cf6-0c9b-da59-1003-9945acf71903 "calendar" %}} section.
 
 1.  Introduction and review of Maxwell's equations
 2.  Solutions to Laplace's equation in Cartesian, cylindrical and spherical geometries

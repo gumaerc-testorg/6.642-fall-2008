@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: f53d2cf6-0c9b-da59-1003-9945acf71903
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
