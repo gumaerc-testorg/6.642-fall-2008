@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the course textbooks and the schedule
+  of readings by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: f0411535-e4bb-d638-8935-8f03d03ec467
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbooks
@@ -18,7 +24,7 @@ Melcher, James R. _Continuum Electromechanics_. Cambridge, MA: MIT Press, 1981. 
 
 Zahn, Markus. _Electromagnetic Field Theory: A Problem Solving Approach_. Malabar, FL: Krieger Publishing, Co., 2003. ISBN: 9781575242354.
 
-The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/resources/res-6-001-continuum-electromechanics-spring-2009/index.htm) and [Electromagnetic Field Theory: A Problem Solving Approach](/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/index.htm).
+The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/courses/res-6-001-continuum-electromechanics-spring-2009) and [Electromagnetic Field Theory: A Problem Solving Approach](/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008).
 
 Readings by Week
 ----------------
@@ -232,8 +238,8 @@ Section 8.18
 Additional Topics
 -----------------
 
-Linearized surface tension force density in spherical coordinates ([PDF]({{< baseurl >}}/resources/sphere))
+Linearized surface tension force density in spherical coordinates ({{% resource_link df22d73e-3885-2f48-ab7b-edf671c09e03 "PDF" %}})
 
-Shape of an interface bounded by a vertical plane wall ([PDF]({{< baseurl >}}/resources/vertical_wall))
+Shape of an interface bounded by a vertical plane wall ({{% resource_link 35ee31bf-5e0b-6262-dc40-447378cc5842 "PDF" %}})
 
-Useful Bessel function relationships ([PDF]({{< baseurl >}}/resources/bessel))
+Useful Bessel function relationships ({{% resource_link b7af4bf7-0ab9-b4b9-0f99-95a82afb72f3 "PDF" %}})
