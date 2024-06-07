@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout on linearized surface tension force density in spherical coordinates.
 file: /courses/6-642-continuum-electromechanics-fall-2008/df22d73e38852f48ab7bedf671c09e03_sphere.pdf
+file_size: 74022
 file_type: application/pdf
 learning_resource_types:
 - Readings
