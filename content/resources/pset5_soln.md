@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on continuum electromechanics.
 file: /courses/6-642-continuum-electromechanics-fall-2008/7de457d88929f32f6580950cb17bab2a_pset5_soln.pdf
+file_size: 193291
 file_type: application/pdf
 learning_resource_types:
 - Assignments
