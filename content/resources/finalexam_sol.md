@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a final exam on continuum electromechanics.
-file: /courses/6-642-continuum-electromechanics-fall-2008/bfac0f9353e6d24cf592634edf9f07b4_finalexam_sol.pdf
+file: /ol-ocw-studio-app/courses/6-642-continuum-electromechanics-fall-2008/bfac0f9353e6d24cf592634edf9f07b4_finalexam_sol.pdf
 file_size: 290383
 file_type: application/pdf
 learning_resource_types:
