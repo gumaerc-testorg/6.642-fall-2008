@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on continuum electromechanics.
-file: /ol-ocw-studio-app/courses/6-642-continuum-electromechanics-fall-2008/b1085880a86490f796329c751aaf49b2_pset7_soln.pdf
+file: /courses/6-642-continuum-electromechanics-fall-2008/b1085880a86490f796329c751aaf49b2_pset7_soln.pdf
 file_size: 114666
 file_type: application/pdf
 learning_resource_types:

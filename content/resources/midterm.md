@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam on continuum electromechanics.
-file: /ol-ocw-studio-app/courses/6-642-continuum-electromechanics-fall-2008/34ace57067f9b6487a8639b4d270820c_midterm.pdf
+file: /courses/6-642-continuum-electromechanics-fall-2008/34ace57067f9b6487a8639b4d270820c_midterm.pdf
 file_size: 1390122
 file_type: application/pdf
 learning_resource_types:

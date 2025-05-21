@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Kelvin-Helmholtz instability, equilibrium, perturbations,
   interfacial force balance, and dispersion relation.
-file: /ol-ocw-studio-app/courses/6-642-continuum-electromechanics-fall-2008/acf162c3f92b66baf592c488ee2624ca_kelvin_helmholtz.pdf
+file: /courses/6-642-continuum-electromechanics-fall-2008/acf162c3f92b66baf592c488ee2624ca_kelvin_helmholtz.pdf
 file_size: 118586
 file_type: application/pdf
 learning_resource_types:
