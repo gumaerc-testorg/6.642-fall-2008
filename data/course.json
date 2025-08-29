@@ -49,10 +49,10 @@
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Lecture Notes",
-    "Course Introduction"
+    "Lecture Notes"
   ],
   "site_uid": "db9113fa-7429-4d40-89c0-fcdfbd10abbd",
   "site_short_id": "6.642-fall-2008",
+  "site_url_path": "courses/6-642-continuum-electromechanics-fall-2008",
   "title": "Course Metadata"
 }
