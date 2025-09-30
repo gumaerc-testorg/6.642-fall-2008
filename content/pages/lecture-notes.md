@@ -17,7 +17,7 @@ Some of the images in the lecture notes are courtesy of MIT Press and Krieger Pu
 
 Images courtesy of MIT Press are from the textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262131650) Melcher, James R. [_Continuum Electromechanics_](https://mitpress.mit.edu/9780262131650). Cambridge, MA: MIT Press, 1981. ISBN: 9780262131650.
+{{% resource_link "209bf0d9-780c-4e03-86e3-ea5a17bf49ce" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Melcher, James R. {{% resource_link "209bf0d9-780c-4e03-86e3-ea5a17bf49ce" "_Continuum Electromechanics_" %}}. Cambridge, MA: MIT Press, 1981. ISBN: 9780262131650.
 
 Images courtesy of Krieger Publishing are from the textbook:
 
